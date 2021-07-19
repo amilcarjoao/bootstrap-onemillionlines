@@ -1,4 +1,4 @@
-# Bootstrap - One Million Lines
+# TP Bootstrap - One Million Lines (FORMATION SIMPLON)
 Vous allez reproduire une maquette relativement basique avec Bootstrap.
 
 ## Objectifs
